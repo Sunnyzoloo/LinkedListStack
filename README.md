@@ -1,2 +1,2 @@
 # LinkedListStack
-A C++ implementation of a stack using a linked list. Supports push, pop, peek, and isEmpty operations, demonstrating dynamic memory management with linked lists.
+This project implements a stack data structure using a linked list in C++. The stack supports the basic operations: push, pop, peek, and isEmpty. Unlike the traditional array-based stack, this implementation dynamically allocates memory for each element, providing better flexibility and efficiency for managing data. This project helps deepen the understanding of both stack data structures and linked list manipulation in C++.
